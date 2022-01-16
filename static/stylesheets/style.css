@@ -1,0 +1,13 @@
+img {
+    border-radius: 50px;
+    padding: 5px;
+    width: 75px;
+}
+
+#search {
+    border-radius: 50px;
+}
+
+.navbar-header {
+    display: inline;
+}
